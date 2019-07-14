@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1" viewBox="0 0 110 120">
+  <path fill="#0D0D0D" d="M105 66l3-8V1C78 1 75 12 75 23v63l-1 10c15-3 26-13 31-30"/>
+  <path fill="#39A2E1" d="M29 14h-7V7h7v7zM35 24h-6v-7h6v7zM29 32h-7v-7h7v7zM22 42h-6v-7h6v7zM9 7H2V1h7v6z"/>
+  <path fill="#39A2E1" d="M16 48h6v15h7V38h6v48c0 22 20 33 20 33-33 0-53-20-53-47V19h7v36h7v-7z"/>
+  <g>
+    <defs>
+      <path id="a" d="M60 99c-9 0-16-2-21-6 3 16 17 23 17 24l4 2c30-2 48-21 48-47v-5c-8 23-24 33-48 32"/>
+    </defs>
+    <clipPath id="b">
+      <use overflow="visible" xlink:href="#a"/>
+    </clipPath>
+    <g clip-path="url(#b)">
+      <linearGradient id="c" x1="-61" x2="-57" y1="111" y2="111" gradientTransform="translate(1066 -1782) scale(16.9357)" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#656263"/>
+        <stop offset="1" stop-color="#a7a5a6"/>
+      </linearGradient>
+      <path fill="url(#c)" d="M60 99c-9 0-16-2-21-6 3 16 17 23 17 24l4 2c30-2 48-21 48-47v-5c-8 23-24 33-48 32"/>
+    </g>
+  </g>
+  <path fill="#39A2E1" d="M22 21h-6v-7h6v7z"/>
+</svg>

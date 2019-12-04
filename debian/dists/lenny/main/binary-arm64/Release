@@ -1,0 +1,5 @@
+Component: main
+Origin: Go Lift
+Label: Go Lift
+Architecture: arm64
+Description: Go Lift Apt Repository

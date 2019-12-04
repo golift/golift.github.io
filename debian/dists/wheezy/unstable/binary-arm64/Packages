@@ -1,0 +1,17 @@
+Package: unifi-poller
+Version: 1.6.1-578
+License: MIT
+Vendor: Go Lift <code at golift dot io>
+Architecture: arm64
+Maintainer: David Newhall II <david at sleepers dot pro>
+Installed-Size: 10002
+Homepage: https://github.com/davidnewhall/unifi-poller
+Priority: extra
+Section: default
+Filename: pool/unstable/u/unifi-poller/unifi-poller_1.6.1-578_arm64.deb
+Size: 3630036
+SHA256: 8c26c653da9ae65933cf8a9f76c9b6fc852cb811e987bf67c282747d3ce33e70
+SHA1: 827727fd2634aafb8e275a7cee99d30ea4d1f6ce
+MD5sum: 491180c0178c96f932f4b1b5493d5faf
+Description: Polls a UniFi controller and exports metrics to InfluxDB
+
